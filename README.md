@@ -1,4 +1,6 @@
 # CatcherSpy-Justanswer-bot
+# bot needs to be updated periodically so conntact me if problems.  
+# script includes is 80% js and 20% python . 
 I have developed a highly efficient and advanced bot called "CatcherSpy" specifically designed to enhance your productivity, profitability, and overall experience on Justanswer.com. CatcherSpy offers a range of powerful features that surpass the capabilities of the existing "Get matched with a new question" tool on Justanswer.
 
 With CatcherSpy, you can automatically and continuously lock questions with a notification signal, ensuring that you are alerted whenever a new question becomes available. This automation enables you to be the first to lock almost 70% of newly created questions, meaning you will have a significant advantage in securing these inquiries before anyone else has the opportunity. Additionally, CatcherSpy can successfully lock approximately 90% of all questions, combining the first-lock advantage with the ability to secure questions that have been unlocked by others or have expired. This impressive 70-90 specification implies that you will be able to respond to nearly 90% of all questions effectively.
