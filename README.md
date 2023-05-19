@@ -1,4 +1,4 @@
-# CatcherSpy-Justanswer-bot
+# CatcherSpy-Justansw-bot
 # bot needs to be updated periodically so conntact me if problems.  
 # script includes is 80% js and 20% python . 
 I have developed a highly efficient and advanced bot called "CatcherSpy" specifically designed to enhance your productivity, profitability, and overall experience on Justanswer.com. CatcherSpy offers a range of powerful features that surpass the capabilities of the existing "Get matched with a new question" tool on Justanswer.
